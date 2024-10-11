@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: #708090;
+}
+
+h1,h3 {
+    
+    font-family: "Papyrus", "Copperplate", monospace; 
+    color: #ADD8E6;
+}
+
+ul,ol {
+    text-align: left;
+    list-style-position: inside;
+}
+
+#frontlist {
+    text-align: center;
+    list-style-position: inside;
+}
